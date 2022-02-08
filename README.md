@@ -1,7 +1,10 @@
-# Java language support in Atom
+# Java language support in Atom (modified for Processing)
 ![build](https://github.com/atom/language-java/workflows/build/badge.svg)
 [![Dependency Status](https://david-dm.org/atom/language-java.svg)](https://david-dm.org/atom/language-java)
 
+- Made #000000 coloured
+
+# Original Readme
 Add syntax highlighting and snippets to Java/JSP files in Atom.
 
 Originally [converted](http://flight-manual.atom.io/hacking-atom/sections/converting-from-textmate) from the [Java TextMate bundle](https://github.com/textmate/java.tmbundle).
